@@ -35,11 +35,21 @@ _Pendiente: detalle de las preguntas de negocio concretas a contrastar, a defini
 
 ## Hallazgos
 
-_Pendiente — se completa luego del análisis exploratorio._
+Se completa luego del análisis exploratorio. 
+ Que se descubre? 
+ 1. Un modelo estándar muy rígido: las ofertas de empleo piden, en casi todos los casos sin excepción un promedio exacto de 8 habilidades o tecnologías por puesto, sin importar si el trabajo es para un puesto Jrs o Srs.
+ 2. Las herramientas estrella: El lenguaje de Python lidera el mercado con 438 ofertas, luego le sigue SQL y herramientas de automatización y despliegue (CI/CD), además de plataformas en la nube como AWS y Kubernetes.
+ 3. Los roles mas buscados: son los puestos de ingeniería en la nube (Cloud Engineer) y desarrollo web (Full stack developer), estos concentran el mayor volumen de oportunidades.
+ 4. El perfil ideal: las empresas buscan perfiles con experiencia intermedia, alta (semi sr y sr). Además casi no piden títulos universitarios formales en los requisitos, enfocándose en lo que la persona sabe hacer en la práctica. 
+
+Para el negocio muestra que dado que se piden 8 habilidades queda demostrado que las descripciones de los puestos suelen responder a plantillas estándar o requisitos fijos, lo que puede significar que a veces se piden tecnologías por inercia y no por una necesidad real del proyecto. Además el hecho que se ignoren los títulos educativos indica que el mercado tecnológico valora la agilidad, las certificaciones y las habilidades técnicas directas por sobre la información tradicional. Y por último el peso que tiene la nube, los contenedores y la automatización refleja que las empresas operan bajo infraestructuras modernas y flexibles, exigiendo profesionales capaces de adaptarse rápidamente a entornos digitales complejos. 
 
 ## Recomendaciones
+Según lo analizado podemos recomendar: 
+1. Optimizar los perfiles de búsqueda: se deben ajustar las descripciones de los puestos para así evitar pedir una lista excesiva o muy rígida de 8 habilidades solo por seguir un estándar. Enfocarse en 3 o 4 habilidades que verdaderamente sean críticas para el éxito del rol.
+2. Priorizar evaluaciones prácticas: al momento de reclutar, invertir los esfuerzos  en pruebas técnicas y demostraciones de habilidades en lugar de filtrar candidatos por títulos o años de experiencia teóricos que no sabemos si es real.
+3. Impulsar planes de capacitación: ya que los perfiles de Sr y Semi Sr son los más solicitados y escasos, recomendamos diseñar programas de formación interna para así poder potenciar a los perfiles Jrs en tecnologías clave como Python, bases de datos y herramientas Cloud. 
 
-_Pendiente — se completa junto con los hallazgos._
 
 ## Cómo reproducir
 
