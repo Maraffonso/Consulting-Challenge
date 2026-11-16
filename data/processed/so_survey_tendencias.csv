@@ -1,0 +1,482 @@
+tecnologia,categoria,primer_año,años_con_dato,adopcion_2018,adopcion_2021,adopcion_2026,delta_2018_2026_pp,delta_2021_2026_pp,pendiente_pp_por_año
+Android,Cloud y plataforma,2016,5,22.3,,,,,1.82
+Angular,Framework web,2016,11,26.02,25.63,14.17,-11.86,-11.46,-1.02
+Apache Spark,Librerías y otros frameworks,2016,9,3.23,3.76,,,,0.18
+Arduino / Raspberry Pi,Sin categoría (solo 2016),2016,1,,,,,,
+C,Lenguaje,2016,11,17.93,16.66,18.18,0.25,1.52,0.37
+C#,Lenguaje,2016,11,35.65,29.84,29.35,-6.3,-0.49,-0.69
+C++,Lenguaje,2016,11,20.69,19.96,21.56,0.87,1.6,0.34
+Cassandra,Base de datos,2016,11,3.39,2.62,1.73,-1.66,-0.89,-0.06
+Clojure,Lenguaje,2016,9,1.37,2.25,1.11,-0.26,-1.15,0.01
+"Cloud (AWS, GAE, Azure, etc.)",Sin categoría (solo 2016),2016,1,,,,,,
+CoffeeScript,Lenguaje,2016,3,3.64,,,,,
+Cordova,Librerías y otros frameworks,2016,9,5.6,5.1,,,,-0.43
+Dart,Lenguaje,2016,10,,5.98,5.09,,-0.89,0.63
+F#,Lenguaje,2016,10,1.5,1.06,1.09,-0.41,0.03,-0.02
+Go,Lenguaje,2016,11,7.59,10.52,17.02,9.43,6.5,1.4
+Hadoop,Librerías y otros frameworks,2016,9,3.02,2.72,,,,-0.13
+Haskell,Lenguaje,2016,9,1.77,1.7,1.59,-0.18,-0.11,0.04
+Java,Lenguaje,2016,11,41.77,34.54,26.65,-15.12,-7.89,-1.19
+JavaScript,Lenguaje,2016,11,72.27,68.69,64.78,-7.49,-3.91,0.0
+LAMP,Sin categoría (solo 2016),2016,1,,,,,,
+MATLAB,Lenguaje,2016,9,4.03,3.17,2.61,-1.43,-0.56,-0.02
+MongoDB,Base de datos,2016,11,22.15,25.26,15.72,-6.43,-9.54,0.33
+Node.js,Framework web,2016,11,33.76,36.23,33.78,0.02,-2.44,1.1
+Objective-C,Lenguaje,2016,10,7.58,3.33,2.54,-5.03,-0.79,-0.61
+PHP,Lenguaje,2016,11,29.09,22.56,17.65,-11.44,-4.91,-1.12
+Perl,Lenguaje,2016,10,4.54,2.43,3.46,-1.07,1.04,-0.11
+Python,Lenguaje,2016,11,36.14,41.57,55.93,19.79,14.36,3.0
+R,Lenguaje,2016,11,5.32,3.48,3.89,-1.43,0.4,-0.03
+React,Framework web,2016,11,19.88,34.28,31.75,11.87,-2.53,2.71
+Redis,Base de datos,2016,11,17.5,22.1,25.86,8.37,3.77,1.46
+Ruby,Lenguaje,2016,11,11.01,7.9,6.22,-4.8,-1.69,-0.42
+Rust,Lenguaje,2016,11,2.11,6.4,17.17,15.05,10.76,1.71
+SQL,Lenguaje,2016,11,59.34,50.78,63.17,3.83,12.4,0.72
+SQL Server,Base de datos,2016,11,36.63,26.51,23.94,-12.69,-2.57,-0.66
+Salesforce,Cloud y plataforma,2016,3,2.08,,,,,
+Scala,Lenguaje,2016,11,4.66,3.07,2.23,-2.43,-0.83,-0.17
+SharePoint,Cloud y plataforma,2016,3,2.45,,,,,
+Swift,Lenguaje,2016,11,8.15,5.65,5.97,-2.18,0.32,-0.16
+Visual Basic,Lenguaje,2016,7,8.22,,3.72,-4.5,,-0.41
+Windows Phone,Cloud y plataforma,2016,3,2.04,,,,,
+WordPress,Framework web,2016,9,12.76,,8.75,-4.01,,-0.28
+iOS,Cloud y plataforma,2016,5,13.67,,,,,0.5
+.NET,Librerías y otros frameworks,2017,8,18.77,27.14,,,,0.47
+AWS,Cloud y plataforma,2017,10,23.07,41.97,33.53,10.46,-8.45,1.71
+Arduino,Cloud y plataforma,2017,4,7.22,,,,,0.44
+Assembly,Lenguaje,2017,10,5.02,4.07,5.58,0.57,1.51,0.11
+Common Lisp,Lenguaje,2017,1,,,,,,
+Elixir,Lenguaje,2017,8,,2.09,2.67,,0.58,0.17
+Erlang,Lenguaje,2017,9,1.09,0.87,1.48,0.39,0.61,0.06
+Firebase,Cloud y plataforma,2017,10,11.32,14.32,8.65,-2.68,-5.67,0.14
+Groovy,Lenguaje,2017,8,4.98,3.64,4.03,-0.94,0.39,0.01
+Hack,Lenguaje,2017,2,0.2,,,,,
+Julia,Lenguaje,2017,8,0.35,0.86,1.03,0.68,0.17,0.08
+Linux,Cloud y plataforma,2017,4,40.58,,,,,9.45
+Lua,Lenguaje,2017,7,3.16,,8.12,4.95,,0.64
+Mainframe,Cloud y plataforma,2017,2,0.68,,,,,
+Microsoft Azure,Cloud y plataforma,2017,10,10.5,23.08,20.13,9.63,-2.94,1.41
+MySQL,Base de datos,2017,10,48.06,43.42,28.75,-19.32,-14.68,-1.98
+Oracle,Base de datos,2017,10,9.41,11.61,7.33,-2.08,-4.28,-0.65
+PostgreSQL,Base de datos,2017,10,29.73,39.73,49.66,19.93,9.93,2.87
+Raspberry Pi,Cloud y plataforma,2017,4,12.78,,,,,0.43
+SQLite,Base de datos,2017,10,15.99,27.8,34.61,18.62,6.81,1.4
+Serverless,Cloud y plataforma,2017,2,4.49,,,,,
+Smalltalk,Lenguaje,2017,1,,,,,,
+TypeScript,Lenguaje,2017,10,19.32,36.45,48.98,29.66,12.52,4.12
+VBA,Lenguaje,2017,10,5.02,4.1,3.42,-1.6,-0.67,-0.17
+Windows,Cloud y plataforma,2017,4,29.48,,,,,6.69
+Xamarin,Herramientas de desarrollo,2017,8,4.8,3.86,,,,-0.36
+macOS,Cloud y plataforma,2017,4,15.74,,,,,3.5
+Amazon Echo,Cloud y plataforma,2018,1,2.5,,,,,
+Amazon RDS/Aurora,Base de datos,2018,1,5.16,,,,,
+Amazon Redshift,Base de datos,2018,3,2.22,,1.63,-0.58,,
+Apache HBase,Base de datos,2018,1,1.33,,,,,
+Apache Hive,Base de datos,2018,1,1.89,,,,,
+Apple Watch or Apple TV,Cloud y plataforma,2018,1,1.58,,,,,
+Bash/Shell,Lenguaje,2018,9,41.83,27.66,52.25,10.42,24.59,1.38
+BigQuery,Base de datos,2018,5,1.86,,5.6,3.74,,0.48
+COBOL,Lenguaje,2018,7,0.69,0.49,0.75,0.06,0.26,0.01
+Delphi,Lenguaje,2018,7,2.67,2.36,1.99,-0.68,-0.38,-0.08
+Django,Framework web,2018,9,8.1,10.77,7.53,-0.57,-3.24,-0.09
+Drupal,Framework web,2018,9,2.6,2.04,1.19,-1.41,-0.85,-0.18
+DynamoDB,Base de datos,2018,9,5.11,7.84,8.51,3.4,0.67,0.43
+ESP8266,Cloud y plataforma,2018,1,1.66,,,,,
+Elasticsearch,Base de datos,2018,9,13.99,14.17,13.38,-0.6,-0.79,-0.07
+Gaming console,Cloud y plataforma,2018,1,0.87,,,,,
+Google Cloud,Cloud y plataforma,2018,9,6.87,21.06,18.48,11.61,-2.58,1.35
+Google Cloud Storage,Base de datos,2018,1,4.33,,,,,
+Google Home,Cloud y plataforma,2018,1,0.93,,,,,
+HTML/CSS,Lenguaje,2018,9,69.61,55.95,59.14,-10.47,3.19,-1.15
+Heroku,Cloud y plataforma,2018,9,8.7,15.12,2.6,-6.1,-12.52,-0.9
+IBM Cloud Or Watson,Cloud y plataforma,2018,7,1.18,1.48,,,,-0.12
+IBM DB2,Base de datos,2018,8,2.34,1.93,1.55,-0.79,-0.37,-0.11
+Kotlin,Lenguaje,2018,9,4.35,9.1,11.11,6.76,2.0,0.74
+MariaDB,Base de datos,2018,9,11.31,15.45,16.64,5.33,1.19,0.58
+Memcached,Base de datos,2018,1,5.46,,,,,
+"Microsoft Azure (Tables, CosmosDB, SQL, etc)",Base de datos,2018,1,7.34,,,,,
+Neo4J,Base de datos,2018,6,2.04,,2.04,-0.01,,-0.0
+OCaml,Lenguaje,2018,6,0.42,,0.68,0.27,,0.05
+Predix,Cloud y plataforma,2018,1,0.11,,,,,
+PyTorch,Librerías y otros frameworks,2018,7,0.77,4.92,,,,1.09
+Spring,Framework web,2018,9,12.38,13.64,9.65,-2.73,-3.99,-0.26
+TensorFlow,Librerías y otros frameworks,2018,7,4.22,8.31,,,,0.35
+ASP.NET,Framework web,2019,8,,20.71,17.86,,-2.85,-0.68
+Ansible,Cloud y plataforma,2019,8,,7.66,8.82,,1.16,0.37
+Chef,Herramientas de desarrollo,2019,6,,1.28,,,,-0.2
+Couchbase,Base de datos,2019,6,,1.55,,,,-0.3
+CryEngine,Librerías y otros frameworks,2019,1,,,,,,
+Docker,Cloud y plataforma,2019,8,,50.9,46.92,,-3.98,2.47
+Express,Framework web,2019,8,,19.54,11.43,,-8.12,-0.59
+Flask,Framework web,2019,8,,11.42,7.87,,-3.55,-0.13
+Flutter,Librerías y otros frameworks,2019,6,,7.86,,,,0.93
+Kubernetes,Cloud y plataforma,2019,8,,18.05,20.75,,2.7,1.75
+Laravel,Framework web,2019,8,,9.01,5.88,,-3.13,-0.39
+Pandas,Librerías y otros frameworks,2019,6,,13.9,,,,1.41
+Puppet,Herramientas de desarrollo,2019,6,,1.62,,,,-0.18
+React Native,Librerías y otros frameworks,2019,6,,9.71,,,,-0.31
+Ruby on Rails,Framework web,2019,8,,6.53,4.22,,-2.31,-0.33
+Slack,IDE y colaboración,2019,2,,,,,,
+Unity,Herramientas de desarrollo,2019,6,,6.49,,,,-0.38
+Unreal Engine,Herramientas de desarrollo,2019,6,,2.12,,,,0.14
+Vue.js,Framework web,2019,8,,16.63,13.13,,-3.5,-0.06
+WebAssembly,Lenguaje,2019,1,,,,,,
+jQuery,Framework web,2019,8,,28.58,15.03,,-13.56,-3.25
+Confluence,IDE y colaboración,2020,1,,,,,,
+Facebook Workplace,IDE y colaboración,2020,1,,,,,,
+Gatsby,Framework web,2020,5,,3.53,,,,-0.53
+Github,IDE y colaboración,2020,1,,,,,,
+Gitlab,IDE y colaboración,2020,1,,,,,,
+"Google Suite (Docs, Meet, etc)",IDE y colaboración,2020,1,,,,,,
+Jira,IDE y colaboración,2020,1,,,,,,
+Keras,Librerías y otros frameworks,2020,5,,4.98,,,,-0.38
+Microsoft Teams,IDE y colaboración,2020,1,,,,,,
+Slack Apps and Integrations,Cloud y plataforma,2020,1,,,,,,
+Stack Overflow for Teams,IDE y colaboración,2020,1,,,,,,
+Symfony,Framework web,2020,7,,3.52,3.11,,-0.4,-0.08
+Terraform,Cloud y plataforma,2020,7,,8.01,14.8,,6.79,1.59
+Trello,IDE y colaboración,2020,1,,,,,,
+APL,Lenguaje,2021,3,,0.47,,,,
+Android Studio,IDE y colaboración,2021,6,,21.59,12.46,,-9.13,-1.97
+Atom,IDE y colaboración,2021,3,,10.24,,,,
+Crystal,Lenguaje,2021,4,,0.58,,,,-0.07
+Deno,Herramientas de desarrollo,2021,6,,1.2,2.79,,1.59,0.38
+DigitalOcean,Cloud y plataforma,2021,6,,12.96,7.85,,-5.11,-1.07
+Eclipse,IDE y colaboración,2021,6,,14.8,5.57,,-9.23,-1.9
+Emacs,IDE y colaboración,2021,5,,5.19,4.31,,-0.88,-0.16
+FastAPI,Framework web,2021,6,,3.2,13.53,,10.33,2.12
+Flow,Herramientas de desarrollo,2021,3,,1.24,,,,
+Git,Herramientas de desarrollo,2021,1,,87.23,,,,
+IntelliJ IDEA,IDE y colaboración,2021,6,,29.47,21.44,,-8.04,-1.63
+Jupyter,IDE y colaboración,2021,6,,9.87,9.21,,-0.66,-0.08
+Lisp,Lenguaje,2021,6,,1.12,1.93,,0.81,0.19
+Neovim,IDE y colaboración,2021,6,,4.46,12.36,,7.9,1.59
+NetBeans,IDE y colaboración,2021,5,,6.7,1.39,,-5.31,-1.04
+Notepad++,IDE y colaboración,2021,6,,28.86,24.79,,-4.07,-1.04
+NumPy,Librerías y otros frameworks,2021,4,,15.82,,,,-0.65
+Oracle Cloud Infrastructure,Cloud y plataforma,2021,5,,1.05,1.75,,0.7,0.15
+PhpStorm,IDE y colaboración,2021,6,,8.49,5.42,,-3.07,-0.65
+PowerShell,Lenguaje,2021,6,,10.97,25.21,,14.24,2.99
+Pulumi,Herramientas de desarrollo,2021,5,,0.5,1.5,,1.0,0.19
+PyCharm,IDE y colaboración,2021,6,,16.15,11.01,,-5.14,-1.03
+Qt,Librerías y otros frameworks,2021,4,,4.94,,,,0.02
+RStudio,IDE y colaboración,2021,4,,2.57,,,,-0.26
+Rider,IDE y colaboración,2021,6,,4.39,6.83,,2.43,0.44
+RubyMine,IDE y colaboración,2021,5,,1.75,1.27,,-0.48,-0.1
+Sublime Text,IDE y colaboración,2021,6,,19.5,8.93,,-10.57,-2.18
+Svelte,Framework web,2021,6,,2.14,5.27,,3.13,0.63
+TextMate,IDE y colaboración,2021,3,,0.82,,,,
+Vim,IDE y colaboración,2021,6,,24.63,24.15,,-0.49,-0.39
+Visual Studio,IDE y colaboración,2021,6,,32.67,24.87,,-7.79,-1.72
+Visual Studio Code,IDE y colaboración,2021,6,,70.52,63.69,,-6.83,-1.87
+WebStorm,IDE y colaboración,2021,6,,9.08,6.27,,-2.81,-0.56
+Xcode,IDE y colaboración,2021,6,,12.57,9.52,,-3.05,-0.68
+Yarn,Herramientas de desarrollo,2021,6,,18.67,13.99,,-4.67,-1.25
+Apache Kafka,Librerías y otros frameworks,2022,3,,,,,,
+Blazor,Framework web,2022,5,,,5.27,,,0.39
+CLion,IDE y colaboración,2022,4,,,3.39,,,-0.34
+Capacitor,Librerías y otros frameworks,2022,3,,,,,,
+Cloud Firestore,Base de datos,2022,5,,,4.07,,,-0.59
+Colocation,Cloud y plataforma,2022,3,,,,,,
+CouchDB,Base de datos,2022,1,,,,,,
+Electron,Librerías y otros frameworks,2022,3,,,,,,
+Fastify,Framework web,2022,5,,,2.68,,,0.27
+Firebase Realtime Database,Base de datos,2022,5,,,3.2,,,-1.07
+Fortran,Lenguaje,2022,5,,,1.33,,,0.16
+GTK,Librerías y otros frameworks,2022,3,,,,,,
+GoLand,IDE y colaboración,2022,4,,,3.11,,,-0.14
+Homebrew,Herramientas de desarrollo,2022,5,,,22.65,,,-0.18
+Hugging Face Transformers,Librerías y otros frameworks,2022,3,,,,,,
+Ionic,Librerías y otros frameworks,2022,3,,,,,,
+Linode,Cloud y plataforma,2022,3,,,,,,
+Managed Hosting,Cloud y plataforma,2022,3,,,,,,
+Nano,IDE y colaboración,2022,5,,,10.21,,,0.39
+Next.js,Framework web,2022,5,,,15.26,,,1.01
+Nuxt.js,Framework web,2022,5,,,3.37,,,0.01
+OVH,Cloud y plataforma,2022,4,,,2.45,,,-0.09
+OpenStack,Cloud y plataforma,2022,3,,,,,,
+Phoenix,Framework web,2022,5,,,1.8,,,-0.02
+Play Framework,Framework web,2022,3,,,,,,
+Qt Creator,IDE y colaboración,2022,3,,,,,,
+"Rad Studio (Delphi, C++ Builder)",IDE y colaboración,2022,3,,,,,,
+SAS,Lenguaje,2022,2,,,,,,
+Scikit-Learn,Librerías y otros frameworks,2022,3,,,,,,
+Solidity,Lenguaje,2022,4,,,0.62,,,-0.23
+Spyder,IDE y colaboración,2022,3,,,,,,
+Tidyverse,Librerías y otros frameworks,2022,3,,,,,,
+Uno Platform,Librerías y otros frameworks,2022,2,,,,,,
+VMware,Cloud y plataforma,2022,3,,,,,,
+npm,Herramientas de desarrollo,2022,5,,,44.34,,,-2.02
+.NET MAUI,Librerías y otros frameworks,2023,2,,,,,,
+APT,Herramientas de desarrollo,2023,4,,,12.0,,,2.22
+AWS CodeWhisperer,IA,2023,1,,,,,,
+Ada,Lenguaje,2023,4,,,0.89,,,0.11
+Adrenaline,IA,2023,1,,,,,,
+Andi,IA,2023,2,,,,,,
+Ant,Herramientas de desarrollo,2023,2,,,,,,
+Apex,Lenguaje,2023,2,,,,,,
+BBEdit,IDE y colaboración,2023,2,,,,,,
+Boost.Test,Herramientas de desarrollo,2023,1,,,,,,
+Bun,Herramientas de desarrollo,2023,4,,,6.67,,,1.9
+CMake,Herramientas de desarrollo,2023,2,,,10.59,,,
+CUDA,Librerías y otros frameworks,2023,2,,,,,,
+Cargo,Herramientas de desarrollo,2023,3,,,12.04,,,
+Catch2,Herramientas de desarrollo,2023,1,,,,,,
+Chocolatey,Herramientas de desarrollo,2023,4,,,7.26,,,0.0
+Clickhouse,Base de datos,2023,4,,,3.15,,,0.67
+Cloudflare,Cloud y plataforma,2023,4,,,18.68,,,2.27
+Cockroachdb,Base de datos,2023,4,,,0.61,,,-0.11
+Code::Blocks,IDE y colaboración,2023,2,,,,,,
+CodeIgniter,Framework web,2023,2,,,,,,
+Codeium,IA,2023,2,,,,,,
+Composer,Herramientas de desarrollo,2023,4,,,7.48,,,-0.18
+Cosmos DB,Base de datos,2023,4,,,3.57,,,0.07
+Couch DB,Base de datos,2023,2,,,,,,
+Dagger,Herramientas de desarrollo,2023,2,,,,,,
+DataGrip,IDE y colaboración,2023,2,,,,,,
+Datomic,Base de datos,2023,3,,,,,,
+DuckDB,Base de datos,2023,4,,,5.19,,,1.55
+Elm,Framework web,2023,2,,,,,,
+Firebird,Base de datos,2023,2,,,,,,
+Fleet,IDE y colaboración,2023,2,,,,,,
+Fly.io,Cloud y plataforma,2023,3,,,2.41,,,
+GDScript,Lenguaje,2023,4,,,3.12,,,0.64
+GNU GCC,Herramientas de desarrollo,2023,1,,,,,,
+Geany,IDE y colaboración,2023,2,,,,,,
+GitHub Copilot,IA,2023,3,,,45.41,,,
+Godot,Herramientas de desarrollo,2023,2,,,,,,
+Google (Gemini),IA,2023,4,,,42.04,,,11.12
+Google Test,Herramientas de desarrollo,2023,2,,,,,,
+Gradle,Herramientas de desarrollo,2023,4,,,11.31,,,-1.28
+H2,Base de datos,2023,4,,,3.77,,,0.05
+Helix,IDE y colaboración,2023,2,,,,,,
+Hetzner,Cloud y plataforma,2023,3,,,6.31,,,
+InfluxDB,Base de datos,2023,4,,,2.78,,,0.14
+JAX,Librerías y otros frameworks,2023,2,,,,,,
+Kate,IDE y colaboración,2023,2,,,,,,
+Ktor,Librerías y otros frameworks,2023,2,,,,,,
+LLVM's Clang,Herramientas de desarrollo,2023,1,,,,,,
+Lit,Framework web,2023,1,,,,,,
+MFC,Librerías y otros frameworks,2023,2,,,,,,
+MSBuild,Herramientas de desarrollo,2023,4,,,9.75,,,-0.66
+MSVC,Herramientas de desarrollo,2023,1,,,,,,
+Make,Herramientas de desarrollo,2023,4,,,17.24,,,-0.5
+Maven,Herramientas de desarrollo,2023,4,,,11.8,,,-1.21
+Meson,Herramientas de desarrollo,2023,1,,,,,,
+Metaphor,IA,2023,2,,,,,,
+Micro,IDE y colaboración,2023,1,,,,,,
+Micronaut,Librerías y otros frameworks,2023,1,,,,,,
+Microsoft (Bing / Phi),IA,2023,4,,,20.77,,,1.43
+Microsoft Access,Base de datos,2023,4,,,2.55,,,-0.18
+Mintlify,IA,2023,1,,,,,,
+Neeva AI,IA,2023,2,,,,,,
+NestJS,Framework web,2023,4,,,4.55,,,-0.09
+Netlify,Cloud y plataforma,2023,4,,,4.14,,,-0.95
+Nim,Lenguaje,2023,2,,,,,,
+Ninja,Herramientas de desarrollo,2023,4,,,3.45,,,0.07
+Nix,Herramientas de desarrollo,2023,3,,,5.01,,,
+Nova,IDE y colaboración,2023,1,,,,,,
+NuGet,Herramientas de desarrollo,2023,4,,,15.38,,,-0.22
+OpenAI (ChatGPT / GPT),IA,2023,4,,,59.76,,,-1.48
+OpenGL,Librerías y otros frameworks,2023,2,,,,,,
+OpenShift,Cloud y plataforma,2023,3,,,2.23,,,
+Opencv,Librerías y otros frameworks,2023,2,,,,,,
+Pacman,Herramientas de desarrollo,2023,4,,,5.94,,,0.34
+Perplexity,IA,2023,3,,,,,,
+Phind,IA,2023,2,,,,,,
+Podman,Cloud y plataforma,2023,4,,,9.81,,,2.21
+Prolog,Lenguaje,2023,4,,,0.62,,,-0.03
+QMake,Herramientas de desarrollo,2023,1,,,,,,
+Quarkus,Librerías y otros frameworks,2023,2,,,,,,
+Quora Poe,IA,2023,2,,,,,,
+Qwik,Framework web,2023,1,,,,,,
+RabbitMQ,Librerías y otros frameworks,2023,2,,,,,,
+Raku,Lenguaje,2023,1,,,,,,
+RavenDB,Base de datos,2023,2,,,,,,
+Remix,Framework web,2023,3,,,1.17,,,
+Render,Cloud y plataforma,2023,3,,,1.93,,,
+Replit Ghostwriter,IA,2023,2,,,,,,
+Rubber Duck.AI,IA,2023,1,,,,,,
+SCons,Herramientas de desarrollo,2023,1,,,,,,
+Scaleway,Cloud y plataforma,2023,3,,,1.03,,,
+Snowflake,Base de datos,2023,4,,,4.1,,,0.65
+Solid.js,Framework web,2023,2,,,,,,
+Solr,Base de datos,2023,2,,,,,,
+Supabase,Base de datos,2023,4,,,7.25,,,1.66
+SwiftUI,Librerías y otros frameworks,2023,2,,,,,,
+Synk Code,IA,2023,1,,,,,,
+Tabnine,IA,2023,3,,,1.37,,,
+Tauri,Librerías y otros frameworks,2023,2,,,,,,
+TiDB,Base de datos,2023,2,,,,,,
+VSCodium,IDE y colaboración,2023,4,,,5.56,,,0.75
+Vercel,Cloud y plataforma,2023,4,,,7.9,,,-0.26
+Visual Studio Solution,Herramientas de desarrollo,2023,2,,,,,,
+Vite,Herramientas de desarrollo,2023,4,,,23.56,,,3.06
+Vultr,Cloud y plataforma,2023,3,,,1.07,,,
+Wasmer,Herramientas de desarrollo,2023,1,,,,,,
+Webpack,Herramientas de desarrollo,2023,4,,,12.75,,,-3.12
+Whispr AI,IA,2023,2,,,,,,
+WolframAlpha,IA,2023,2,,,,,,
+You.com,IA,2023,2,,,,,,
+Zig,Lenguaje,2023,4,,,2.29,,,0.57
+bandit,Herramientas de desarrollo,2023,1,,,,,,
+build2,Herramientas de desarrollo,2023,1,,,,,,
+condo,IDE y colaboración,2023,1,,,,,,
+cppunit,Herramientas de desarrollo,2023,1,,,,,,
+doctest,Herramientas de desarrollo,2023,1,,,,,,
+pip,Herramientas de desarrollo,2023,4,,,31.31,,,2.21
+pnpm,Herramientas de desarrollo,2023,4,,,15.53,,,3.1
+snitch,Herramientas de desarrollo,2023,1,,,,,,
+tunit,Herramientas de desarrollo,2023,1,,,,,,
+Alibaba Cloud,Cloud y plataforma,2024,1,,,,,,
+Amazon Q,IA,2024,1,,,,,,
+Anthropic (Claude),IA,2024,3,,,62.2,,,
+AskCodi,IA,2024,1,,,,,,
+Astro,Framework web,2024,3,,,4.13,,,
+Cody,IA,2024,1,,,,,,
+Databricks,Cloud y plataforma,2024,1,,,,,,
+Databricks SQL,Base de datos,2024,3,,,3.46,,,
+DirectX,Librerías y otros frameworks,2024,1,,,,,,
+EventStoreDB,Base de datos,2024,1,,,,,,
+Lightning AI,IA,2024,1,,,,,,
+Meta (Llama),IA,2024,3,,,4.19,,,
+MicroPython,Lenguaje,2024,3,,,1.94,,,
+OpenAI Codex,IA,2024,2,,,23.01,,,
+OpenCL,Librerías y otros frameworks,2024,1,,,,,,
+Presto,Base de datos,2024,1,,,,,,
+PythonAnywhere,Cloud y plataforma,2024,1,,,,,,
+Roslyn,Librerías y otros frameworks,2024,1,,,,,,
+Ruff,Librerías y otros frameworks,2024,1,,,,,,
+Snyk Code,Testing y calidad,2024,2,,,4.18,,,
+Spacemacs,IDE y colaboración,2024,1,,,,,,
+Strapi,Framework web,2024,1,,,,,,
+Visual Studio Intellicode,IA,2024,1,,,,,,
+Yii 2,Framework web,2024,1,,,,,,
+Zephyr,Lenguaje,2024,1,,,,,,
+htmx,Framework web,2024,2,,,3.87,,,
+mlflow,Librerías y otros frameworks,2024,1,,,,,,
+Aider,IA,2025,2,,,1.56,,,
+Alibaba Qwen,IA,2025,2,,,8.08,,,
+Amazon Titan models,IA,2025,1,,,,,,
+Axum,Framework web,2025,2,,,2.6,,,
+Bolt,IDE y colaboración,2025,1,,,,,,
+Claude Code,IA,2025,2,,,52.67,,,
+Cline and/or Roo,IDE y colaboración,2025,1,,,,,,
+Cohere: Command A,IA,2025,1,,,,,,
+Cursor,IA,2025,2,,,22.09,,,
+Datadog,Testing y calidad,2025,2,,,9.8,,,
+DeepSeek,IA,2025,2,,,14.12,,,
+Gleam,Lenguaje,2025,2,,,0.89,,,
+IBM Cloud,Cloud y plataforma,2025,2,,,0.62,,,
+Lovable.dev,IDE y colaboración,2025,1,,,,,,
+Mistral,IA,2025,2,,,7.72,,,
+Mojo,Lenguaje,2025,2,,,0.35,,,
+New Relic,Testing y calidad,2025,2,,,3.02,,,
+Pocketbase,Base de datos,2025,2,,,0.72,,,
+Poetry,Herramientas de desarrollo,2025,2,,,5.92,,,
+Prometheus,Cloud y plataforma,2025,1,,,,,,
+Railway,Cloud y plataforma,2025,2,,,1.59,,,
+Reka (Flash 3 or other Reka models),IA,2025,1,,,,,,
+RustRover,IDE y colaboración,2025,2,,,2.94,,,
+Splunk,Cloud y plataforma,2025,1,,,,,,
+Trae,IDE y colaboración,2025,2,,,0.82,,,
+Valkey,Base de datos,2025,2,,,4.27,,,
+Windsurf,IA,2025,2,,,5.36,,,
+Yandex Cloud,Cloud y plataforma,2025,1,,,,,,
+Zed,IDE y colaboración,2025,2,,,10.09,,,
+xAI (Grok),IA,2025,2,,,5.9,,,
+Amazon Q Developer,IA,2026,1,,,2.81,,,
+Appium,Testing y calidad,2026,1,,,1.22,,,
+Atomic Agents,IA,2026,1,,,0.34,,,
+Augment Code,IA,2026,1,,,0.77,,,
+AutoGen,IA,2026,1,,,0.66,,,
+BLACKBOX AI,IA,2026,1,,,0.71,,,
+Bazel,Herramientas de desarrollo,2026,1,,,1.96,,,
+Black Forest Labs,IA,2026,1,,,0.64,,,
+BrowserStack,Testing y calidad,2026,1,,,4.27,,,
+Canary,Testing y calidad,2026,1,,,0.92,,,
+Cascade,IA,2026,1,,,0.39,,,
+Cline,IA,2026,1,,,3.57,,,
+CodeQL,Testing y calidad,2026,1,,,3.87,,,
+CodeRabbit,Testing y calidad,2026,1,,,4.47,,,
+Codecov,Testing y calidad,2026,1,,,4.21,,,
+Codium (Qodo),IA,2026,1,,,1.11,,,
+Cohere,IA,2026,1,,,0.74,,,
+Conda,Herramientas de desarrollo,2026,1,,,4.65,,,
+Continue,IA,2026,1,,,2.94,,,
+CrewAI,IA,2026,1,,,1.04,,,
+Cucumber,Testing y calidad,2026,1,,,4.07,,,
+Cypress,Testing y calidad,2026,1,,,7.02,,,
+DSPy,IA,2026,1,,,0.77,,,
+Databricks (DBRX),IA,2026,1,,,1.21,,,
+DeepSource,Testing y calidad,2026,1,,,0.59,,,
+Devin,IA,2026,1,,,2.06,,,
+Dify,IA,2026,1,,,0.49,,,
+ESLint,Testing y calidad,2026,1,,,31.69,,,
+Ellipsis,Testing y calidad,2026,1,,,0.37,,,
+Gemini Code Assist,IA,2026,1,,,10.27,,,
+GitHub Codespaces,IDE y colaboración,2026,1,,,4.62,,,
+Google ADK,IA,2026,1,,,2.8,,,
+Google Antigravity,IA,2026,1,,,11.18,,,
+Google Jules,IA,2026,1,,,1.42,,,
+Graphite,Testing y calidad,2026,1,,,1.57,,,
+Greptile,Testing y calidad,2026,1,,,0.87,,,
+Helm,Cloud y plataforma,2026,1,,,9.96,,,
+Hermes Agent,IA,2026,1,,,2.63,,,
+Hono,Framework web,2026,1,,,2.03,,,
+JUnit,Testing y calidad,2026,1,,,17.55,,,
+JaCoCo,Testing y calidad,2026,1,,,5.08,,,
+Jest,Testing y calidad,2026,1,,,18.69,,,
+JetBrains AI,IA,2026,1,,,10.27,,,
+Kilo Code,IA,2026,1,,,2.25,,,
+Kiro,IDE y colaboración,2026,1,,,2.4,,,
+Koa,Framework web,2026,1,,,0.52,,,
+LangChain,IA,2026,1,,,8.21,,,
+LangGraph,IA,2026,1,,,4.83,,,
+Llama Stack,IA,2026,1,,,4.28,,,
+Mastra,IA,2026,1,,,0.47,,,
+Mistral Vibe,IA,2026,1,,,2.2,,,
+Mocha,Testing y calidad,2026,1,,,4.28,,,
+Moonshot AI,IA,2026,1,,,3.08,,,
+NUnit,Testing y calidad,2026,1,,,7.61,,,
+Open Code,IA,2026,1,,,10.47,,,
+OpenAI Agents SDK,IA,2026,1,,,5.88,,,
+OpenTofu,Cloud y plataforma,2026,1,,,2.66,,,
+Pi,IA,2026,1,,,3.44,,,
+Playwright,Testing y calidad,2026,1,,,21.75,,,
+Postman / Newman,Testing y calidad,2026,1,,,27.67,,,
+Preact,Framework web,2026,1,,,1.24,,,
+Pydantic AI,IA,2026,1,,,2.32,,,
+Qodo,Testing y calidad,2026,1,,,0.61,,,
+RSpec,Testing y calidad,2026,1,,,3.02,,,
+Rancher,Cloud y plataforma,2026,1,,,3.57,,,
+Replit,IDE y colaboración,2026,1,,,1.28,,,
+Replit Agent,IA,2026,1,,,1.23,,,
+Robot Framework,Testing y calidad,2026,1,,,1.46,,,
+RubyGems / Bundler,Herramientas de desarrollo,2026,1,,,3.69,,,
+Selenium,Testing y calidad,2026,1,,,9.34,,,
+Semantic Kernel,IA,2026,1,,,1.08,,,
+Semgrep,Testing y calidad,2026,1,,,1.88,,,
+Sentry,Testing y calidad,2026,1,,,12.76,,,
+Smolagents,IA,2026,1,,,0.44,,,
+SolidJS,Framework web,2026,1,,,0.95,,,
+SonarQube / SonarCloud,Testing y calidad,2026,1,,,16.31,,,
+Sourcegraph Cody,IA,2026,1,,,0.53,,,
+Sourcery,Testing y calidad,2026,1,,,0.44,,,
+Stability AI,IA,2026,1,,,0.5,,,
+Strands,IA,2026,1,,,0.71,,,
+Supermaven,IA,2026,1,,,0.71,,,
+SvelteKit,Framework web,2026,1,,,3.65,,,
+Terminal Use,IA,2026,1,,,4.71,,,
+TestNG,Testing y calidad,2026,1,,,1.5,,,
+Testcontainers,Testing y calidad,2026,1,,,6.98,,,
+Vercel AI SDK,IA,2026,1,,,2.3,,,
+Vitest,Testing y calidad,2026,1,,,17.3,,,
+Voyage AI (MongoDB),IA,2026,1,,,0.44,,,
+Warp,IA,2026,1,,,3.94,,,
+Winget,Herramientas de desarrollo,2026,1,,,8.55,,,
+Zhipu AI,IA,2026,1,,,1.51,,,
+k6,Testing y calidad,2026,1,,,2.83,,,
+pytest,Testing y calidad,2026,1,,,22.67,,,
+uv,Herramientas de desarrollo,2026,1,,,18.31,,,
+xUnit.net,Testing y calidad,2026,1,,,9.39,,,
